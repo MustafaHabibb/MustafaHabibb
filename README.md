@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Hi there 👋🏻,<br>I'm Mustafa Habib, and I am a computer science student.<br>I really enjoy learning languages and frameworks like React and Node.js. I wish to become a full stack developer  soon one day.
 
